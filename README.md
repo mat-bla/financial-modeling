@@ -10,13 +10,9 @@ incorrect data.
 Contents:
 
 
-YahooCandles.py
-
-This is the most basic program, which just pulls market data from Yahoo Finance and displays it 
+YahooCandles.py: This is the most basic program, which just pulls market data from Yahoo Finance and displays it 
 in a candlestick chart. 
 
 
-3charts.py
-
-Display three charts side by side, along with the daily trading volume and RSI. Can be useful to quickly compare
+3charts.py: Display three charts side by side, along with the daily trading volume and RSI. Can be useful to quickly compare
 different assets/markets. Again this just pulls market data from Yahoo. 
