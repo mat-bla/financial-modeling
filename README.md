@@ -8,6 +8,8 @@ incorrect data.
 
 Contents:
 
+
 YahooCandles.py
+
 This is the most basic program, which just pulls market data from Yahoo Finance and displays it 
 in a candlestick chart. 
